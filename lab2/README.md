@@ -53,6 +53,7 @@ Password: baduser
 <html></br></html>
 
 ![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q10.png?raw=true)
+
 13. Create a folder called myteam in your home directory and change its permissions to
 read only for the owner.
 <html></br></html>
