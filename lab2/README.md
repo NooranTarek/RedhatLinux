@@ -58,20 +58,85 @@ Password: baduser
 read only for the owner.
 <html></br></html>
 
+![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q13.png?raw=true)
+
 14. Log out and log in by another user
 <html></br></html>
 
+![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q14.png?raw=true)
+
 15. Try to access (by cd command) the folder (myteam)
 <html></br></html>
+
+![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q15.png?raw=true)
 
 16. Using the command Line
  Change the permissions of oldpasswd file to give owner read and write
 permissions and for group write and execute and execute only for the others
 (using chmod in 2 different ways)
+<html></br></html>
+
+![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q16.a.png?raw=true)
+
  Change your default permissions to be as above.
+![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q16.b.png?raw=true)
+
+
  What is the maximum permission a file can have, by default when it is just
 created? And what is that for directory.
+<html></br></html>
+
+when a file is just created it has permissions of 666 (read and write for owner, group,
+and others). For directories, the default is usually 777 (read, write, and execute
+for owner, group, and others).
+
+
  Change your default permissions to be no permission to everyone then create a
 directory and a file to verify.
 
+![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q16.c.png?raw=true)
 
+
+18. What are the minimum permission needed for:
+ Copy a directory (permission for source directory and permissions for target
+parent directory)
+![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q13.png?raw=true)
+
+
+ Copy a file (permission for source file and and permission for target parent
+directory)
+![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q13.png?raw=true)
+
+
+ Delete a file
+![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q13.png?raw=true)
+
+
+ Change to a directory
+![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q13.png?raw=true)
+
+
+ List a directory content (ls command)
+![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q13.png?raw=true)
+
+ View a file content (more/cat command)
+![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q13.png?raw=true)
+
+ Modify a file content
+![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q13.png?raw=true)
+
+19. Create a file with permission 444. Try to edit in it and to remove it? Note what
+happened.
+<html></br></html>
+
+![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q18.1.png?raw=true)
+![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q18.2.png?raw=true)
+
+
+
+21. What is the difference between the “x” permission for a file and for a
+directory?
+<html></br></html>
+
+For regular files the "x" permission allows the file to be executed as a program. If a user has execute permission on a file, they can run the file as a command.
+For directories, the "x" permission has a different meaning. If a user has execute permission on a directory, it allows them to traverse (cd) into the directory and access its contents.
