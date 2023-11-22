@@ -94,36 +94,39 @@ for owner, group, and others).
  Change your default permissions to be no permission to everyone then create a
 directory and a file to verify.
 
-![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q16.c.png?raw=true)
+<html></br></html>
 
 
 18. What are the minimum permission needed for:
  Copy a directory (permission for source directory and permissions for target
 parent directory)
-![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q13.png?raw=true)
+<html></br></html>
 
 
  Copy a file (permission for source file and and permission for target parent
 directory)
-![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q13.png?raw=true)
-
+<html></br></html>
+source         --x
+<html></br></html>
+distination    -wx
 
  Delete a file
-![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q13.png?raw=true)
-
+<html></br></html>
+delete         ---
+<html></br></html>
 
  Change to a directory
-![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q13.png?raw=true)
+<html></br></html>
 
 
  List a directory content (ls command)
-![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q13.png?raw=true)
+<html></br></html>
 
  View a file content (more/cat command)
-![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q13.png?raw=true)
+<html></br></html>
 
  Modify a file content
-![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q13.png?raw=true)
+<html></br></html>
 
 19. Create a file with permission 444. Try to edit in it and to remove it? Note what
 happened.
