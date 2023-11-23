@@ -39,7 +39,7 @@ press $ ,press a to enter insert mode.
 
 ![1]( https://github.com/NooranTarek/RedhatLinux/blob/main/lab3/lab3_q3.png?raw=true)
 
-4. List the available shells in your system.
+4.List the environment variables in your current shell.
 <html></br></html>
 
 ![1]( https://github.com/NooranTarek/RedhatLinux/blob/main/lab3/lab3_q4.1.png?raw=true)
@@ -47,38 +47,35 @@ press $ ,press a to enter insert mode.
 
 ![1](  https://github.com/NooranTarek/RedhatLinux/blob/main/lab3/lab3_q4.2.png?raw=true)
 
-5. List the environment variables in your current shell.
+5.List all of the environment variables for the bash shell.
 <html></br></html>
 
 ![1](https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg)
 
-6. List all of the environment variables for the bash shell.
+6. What are the commands that list the value of a specific variable?
 <html></br></html>
 
 ![1]( https://github.com/NooranTarek/RedhatLinux/blob/main/lab3/lab3_q6.png?raw=true)
 
 
-7. What are the commands that list the value of a specific variable?
+7. Display your current shell name.
 <html></br></html>
 
 ![1](  https://github.com/NooranTarek/RedhatLinux/blob/main/lab3/lab3_q7.png?raw=true)
 
 
-8. Display your current shell name.
+8.State the initialization files of: sh, ksh, bash.
 <html></br></html>
 
 ![1](https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg)
 
 
-9. State the initialization files of: sh, ksh, bash.
+9. Edit in your profile to display date at login and change your prompt permanently.
 <html></br></html>
 
 ![1](https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg)
 
-10. Edit in your profile to display date at login and change your prompt permanently.
 <html></br></html>
-
-![1]( https://github.com/NooranTarek/RedhatLinux/blob/main/lab3/lab3_q3.png?raw=true)
 
 10.Execute the following command :
 echo \ then press enter
