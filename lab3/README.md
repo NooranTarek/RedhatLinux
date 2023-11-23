@@ -6,7 +6,7 @@
 college, experience,...
 <html></br></html>
 
-![1](https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg)
+![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab3/lab3_q1.png?raw=true)
 
 3. Open mycv file using vi command then: Without using arrows state how to:
 a. Move the cursor down one line at time.
