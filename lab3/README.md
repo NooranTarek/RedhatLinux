@@ -8,7 +8,7 @@ college, experience,...
 
 ![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab3/lab3_q1.png?raw=true)
 
-3. Open mycv file using vi command then: Without using arrows state how to:
+2. Open mycv file using vi command then: Without using arrows state how to:
 a. Move the cursor down one line at time.
 <html></br></html>
 press j
@@ -32,31 +32,72 @@ f. How to step to the end of line and change to writing mode in one-step.
 <html></br></html>
 press $ ,press a to enter insert mode.
 <html></br></html>
+
+
+3. List the available shells in your system.
+<html></br></html>
+
+![1]( https://github.com/NooranTarek/RedhatLinux/blob/main/lab3/lab3_q3.png?raw=true)
+
 4. List the available shells in your system.
 <html></br></html>
+
+![1]( https://github.com/NooranTarek/RedhatLinux/blob/main/lab3/lab3_q4.1.png?raw=true)
+<html></br></html>
+
+![1](  https://github.com/NooranTarek/RedhatLinux/blob/main/lab3/lab3_q4.2.png?raw=true)
 
 5. List the environment variables in your current shell.
 <html></br></html>
 
+![1]( https://github.com/NooranTarek/RedhatLinux/blob/main/lab3/lab3_q3.png?raw=true)
+
 6. List all of the environment variables for the bash shell.
 <html></br></html>
+
+![1]( https://github.com/NooranTarek/RedhatLinux/blob/main/lab3/lab3_q6.png?raw=true)
+
 
 7. What are the commands that list the value of a specific variable?
 <html></br></html>
 
+![1](  https://github.com/NooranTarek/RedhatLinux/blob/main/lab3/lab3_q7.png?raw=true)
+
+
 8. Display your current shell name.
 <html></br></html>
+
+![1]( https://github.com/NooranTarek/RedhatLinux/blob/main/lab3/lab3_q3.png?raw=true)
+
 
 9. State the initialization files of: sh, ksh, bash.
 <html></br></html>
 
+![1]( https://github.com/NooranTarek/RedhatLinux/blob/main/lab3/lab3_q3.png?raw=true)
+
 10. Edit in your profile to display date at login and change your prompt permanently.
 <html></br></html>
+
+![1]( https://github.com/NooranTarek/RedhatLinux/blob/main/lab3/lab3_q3.png?raw=true)
 
 10.Execute the following command :
 echo \ then press enter
 What is the purpose of \ ?
 Notice the prompt ”>” what is that? and how can you change it from “>” to “:”.
+<html></br></html>
+
+![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab3/lab3_q10.2.png?raw=true)
+
+<html></br></html>
+
+the shell is expecting more input to complete the command because the previous line ended with a backslash (\)
+(>) is indicating that the command is not yet complete. The shell is waiting for you to provide additional 
+input to finish the command.If you want to change from > to :,use the PS2 variable.
+
+ <html></br></html>
+
 11.Create a Bash shell alias named ls for the “ls –l” command
 <html></br></html>
+
+![1]( https://github.com/NooranTarek/RedhatLinux/blob/main/lab3/lab3_q11.png?raw=true)
 
