@@ -93,6 +93,8 @@ permissions and for group write and execute and execute only for the others
 <html></br></html>
 
  Change your default permissions to be as above.
+<html></br></html>
+
 ![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q16.b.png?raw=true)
 
 <html></br></html>
