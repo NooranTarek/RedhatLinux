@@ -50,7 +50,7 @@ press $ ,press a to enter insert mode.
 5.List all of the environment variables for the bash shell.
 <html></br></html>
 
-![1](https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg)
+![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab3/lab3_q5.png?raw=true)
 
 6. What are the commands that list the value of a specific variable?
 <html></br></html>
@@ -67,7 +67,23 @@ press $ ,press a to enter insert mode.
 8.State the initialization files of: sh, ksh, bash.
 <html></br></html>
 
-![1](https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg)
+    sh (Bourne Shell):
+        The Bourne Shell (sh) typically reads the system-wide profile file, such as /etc/profile. Additionally, it may read a user's personal initialization file, such as ~/.profile.
+
+    ksh (Korn Shell):
+        The Korn Shell (ksh) can read system-wide files like /etc/profile. For individual users, it may read ~/.profile or ~/.kshrc.
+
+    bash (Bourne Again Shell):
+        The Bash Shell (bash) reads different files depending on whether it is invoked as a login shell or a non-login shell.
+            Login Shell:
+                /etc/profile: System-wide initialization file.
+                /etc/bashrc: System-wide resource file for non-login shells.
+                ~/.bash_profile: User-specific login configuration.
+                ~/.bash_login: Used if ~/.bash_profile doesn't exist.
+                ~/.profile: Used if neither ~/.bash_profile nor ~/.bash_login exists.
+            Non-login Shell:
+                /etc/bashrc: System-wide resource file.
+                ~/.bashrc: User-specific configuration.
 
 
 9. Edit in your profile to display date at login and change your prompt permanently.
