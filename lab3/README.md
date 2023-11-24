@@ -90,7 +90,9 @@ press $ ,press a to enter insert mode.
 <html></br></html>
 
 ![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab3/lab3_q9.png?raw=true)
+
 <html></br></html>
+
 ![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab3/lab3_q91.png?raw=true).
 
 <html></br></html>
