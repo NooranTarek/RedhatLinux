@@ -19,35 +19,42 @@ Password: baduser
 <html></br></html>
 
 ![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q3.png?raw=true)
+<html></br></html>
 4. Create a supplementary group called badgroup
 <html></br></html>
 
 ![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q4.png?raw=true)
+<html></br></html>
 
 5. Add islam user to the pgroup group as a supplementary group
 <html></br></html>
 
 ![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q5.png?raw=true)
+<html></br></html>
 
 6. Modify the password of islam's account to password
 <html></br></html>
 
 ![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q6.png?raw=true)
+<html></br></html>
 
 7. Modify islam's account so the password expires after 30 days
 <html></br></html>
 
 ![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q7.png?raw=true)
+<html></br></html>
 
 8. Lock bad user account so he can't log in
 <html></br></html>
 
 ![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q8.png?raw=true)
+<html></br></html>
 
 9. Delete bad user account
 <html></br></html>
 
 ![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q9.png?raw=true)
+<html></br></html>
 
 10. Delete the supplementary group called badgroup.
 <html></br></html>
@@ -59,16 +66,19 @@ read only for the owner.
 <html></br></html>
 
 ![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q13.png?raw=true)
+<html></br></html>
 
 14. Log out and log in by another user
 <html></br></html>
 
 ![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q14.png?raw=true)
+<html></br></html>
 
 15. Try to access (by cd command) the folder (myteam)
 <html></br></html>
 
 ![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q15.png?raw=true)
+<html></br></html>
 
 16. Using the command Line
  <html></br></html>
