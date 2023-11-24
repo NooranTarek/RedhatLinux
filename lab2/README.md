@@ -71,6 +71,7 @@ read only for the owner.
 ![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q15.png?raw=true)
 
 16. Using the command Line
+ <html></br></html>
  Change the permissions of oldpasswd file to give owner read and write
 permissions and for group write and execute and execute only for the others
 (using chmod in 2 different ways)
@@ -78,9 +79,12 @@ permissions and for group write and execute and execute only for the others
 
 ![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q16.a.png?raw=true)
 
+<html></br></html>
+
  Change your default permissions to be as above.
 ![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q16.b.png?raw=true)
 
+<html></br></html>
 
  What is the maximum permission a file can have, by default when it is just
 created? And what is that for directory.
@@ -90,45 +94,61 @@ when a file is just created it has permissions of 666 (read and write for owner,
 and others). For directories, the default is usually 777 (read, write, and execute
 for owner, group, and others).
 
+<html></br></html>
 
  Change your default permissions to be no permission to everyone then create a
 directory and a file to verify.
 
 <html></br></html>
 
+![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q16.c.png?raw=true)
 
-18. What are the minimum permission needed for:
+<html></br></html>
+
+17. What are the minimum permission needed for:
  Copy a directory (permission for source directory and permissions for target
 parent directory)
 <html></br></html>
-
-
+Source Directory           r--
+<html></br></html>
+Target Parent Directory    -w-
+<html></br></html>
  Copy a file (permission for source file and and permission for target parent
 directory)
 <html></br></html>
-source         --x
+Source Directory         --x
 <html></br></html>
-distination    -wx
+Target Parent Directory  -wx
+<html></br></html>
+
 
  Delete a file
 <html></br></html>
-delete         ---
+delete         -wx
 <html></br></html>
 
  Change to a directory
+<html></br></html>
+change        --x
 <html></br></html>
 
 
  List a directory content (ls command)
 <html></br></html>
+list        --x
+<html></br></html>
 
  View a file content (more/cat command)
+<html></br></html>
+view        r--
 <html></br></html>
 
  Modify a file content
 <html></br></html>
+modify      -w-
+<html></br></html>
 
-19. Create a file with permission 444. Try to edit in it and to remove it? Note what
+18. Create a file with permission 444. Try to edit in it and to remove it? Note what
 happened.
 <html></br></html>
 
@@ -137,7 +157,7 @@ happened.
 
 
 
-21. What is the difference between the “x” permission for a file and for a
+19. What is the difference between the “x” permission for a file and for a
 directory?
 <html></br></html>
 
