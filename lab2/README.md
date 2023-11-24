@@ -20,6 +20,7 @@ Password: baduser
 
 ![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab2/lab2_q3.png?raw=true)
 <html></br></html>
+
 4. Create a supplementary group called badgroup
 <html></br></html>
 
