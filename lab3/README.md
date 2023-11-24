@@ -89,7 +89,7 @@ press $ ,press a to enter insert mode.
 9. Edit in your profile to display date at login and change your prompt permanently.
 <html></br></html>
 
-![1](https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg)
+![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab3/lab3_q9.png?raw=true)
 
 <html></br></html>
 
