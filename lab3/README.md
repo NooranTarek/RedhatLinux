@@ -67,23 +67,27 @@ press $ ,press a to enter insert mode.
 8.State the initialization files of: sh, ksh, bash.
 <html></br></html>
 
-    sh (Bourne Shell):
-        The Bourne Shell (sh) typically reads the system-wide profile file, such as /etc/profile. Additionally, it may read a user's personal initialization file, such as ~/.profile.
+sh (Bourne Shell):reads the system-wide profile file, such as /etc/profile.
+it may read a user's personal initialization file, such as ~/.profile.
+<html></br></html>
 
-    ksh (Korn Shell):
-        The Korn Shell (ksh) can read system-wide files like /etc/profile. For individual users, it may read ~/.profile or ~/.kshrc.
+ksh (Korn Shell):read system-wide files like /etc/profile.it may read ~/.profile or ~/.kshrc.
+<html></br></html>
 
-    bash (Bourne Again Shell):
-        The Bash Shell (bash) reads different files depending on whether it is invoked as a login shell or a non-login shell.
-            Login Shell:
-                /etc/profile: System-wide initialization file.
-                /etc/bashrc: System-wide resource file for non-login shells.
-                ~/.bash_profile: User-specific login configuration.
-                ~/.bash_login: Used if ~/.bash_profile doesn't exist.
-                ~/.profile: Used if neither ~/.bash_profile nor ~/.bash_login exists.
-            Non-login Shell:
-                /etc/bashrc: System-wide resource file.
-                ~/.bashrc: User-specific configuration.
+bash (Bourne Again Shell):reads different files depending on whether it is invoked as a login shell or a non-login shell.
+<html></br></html>
+
+Login Shell:
+/etc/profile: System-wide initialization file.
+/etc/bashrc: System-wide resource file for non-login shells.
+~/.bash_profile: User-specific login configuration.
+~/.bash_login: Used if ~/.bash_profile doesn't exist.
+~/.profile: Used if neither ~/.bash_profile nor ~/.bash_login exists.
+Non-login Shell:
+/etc/bashrc: System-wide resource file.
+~/.bashrc: User-specific configuration.
+
+<html></br></html>
 
 
 9. Edit in your profile to display date at login and change your prompt permanently.
