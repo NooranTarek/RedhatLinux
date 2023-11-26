@@ -9,8 +9,6 @@
 differences between compress and gzip commands.
 
 <html></br></html>
-
-    Command Usage:
         gzip:  Commonly used with the gzip command.
                Widely adopted and considered standard
                Generally faster
