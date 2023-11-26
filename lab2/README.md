@@ -137,7 +137,7 @@ Target Parent Directory  -wx
 
  Delete a file
 <html></br></html>
-delete         -wx
+delete         ---
 <html></br></html>
 
  Change to a directory
