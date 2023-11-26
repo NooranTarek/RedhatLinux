@@ -9,11 +9,14 @@
 differences between compress and gzip commands.
 
 <html></br></html>
+
         gzip:  Commonly used with the gzip command.
                Widely adopted and considered standard
                Generally faster
                Adds a .gz extension
+               
                <html></br></html>
+               
      compress: Used with the compress command.
                Less widely used and somewhat outdated
                Adds a .Z extension
