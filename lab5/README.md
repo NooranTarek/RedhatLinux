@@ -1,1 +1,74 @@
-# lab 5
+# Redhat-LINUX-
+<html></br></html>
+# Lab4
+
+![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab4/redhat.png?raw=true)
+<html></br></html>
+
+1. Compress a file by compress, gzip, zip commands and decompress it again. State the
+differences between compress and gzip commands.
+<html></br></html>
+
+
+<html></br></html>
+
+
+
+2. What is the command used to view the content of a compressed file.
+<html></br></html>
+
+
+<html></br></html>
+
+3. Backup /etc directory using tar utility.
+<html></br></html>
+
+<html></br></html>
+
+
+4. Starting from your home directory, find all files that were modified in the last two day.
+<html></br></html>
+
+
+<html></br></html>
+
+5. Starting from /etc, find files owned by root user.
+<html></br></html>
+
+<html></br></html>
+
+6. Find all directories in your home directory.
+<html></br></html>
+
+<html></br></html>
+
+7. Write a command to search for all files on the system that, its name is “.profile”.
+<html></br></html>
+
+<html></br></html>
+
+8. Identify the file types of the following: /etc/passwd, /dev/pts/0, /etc, /dev/sda
+<html></br></html>
+
+
+<html></br></html>
+
+9. List the inode numbers of /, /etc, /etc/hosts.
+<html></br></html>
+
+<html></br></html>
+
+10. Copy /etc/passwd to your home directory, use the commands diff and cmp, and Edit in the
+file you copied, and then use these commands again, and check the output.
+<html></br></html>
+
+
+<html></br></html>
+
+11. Create a symbolic link of /etc/passwd in /boot.
+<html></br></html>
+
+
+<html></br></html>
+
+12. Create a hard link of /etc/passwd in /boot. Could you? Why?
