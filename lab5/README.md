@@ -72,3 +72,28 @@ file you copied, and then use these commands again, and check the output.
 <html></br></html>
 
 12. Create a hard link of /etc/passwd in /boot. Could you? Why?
+<html></br></html>
+
+
+
+<html></br></html>
+
+
+
+https://github.com/NooranTarek/RedhatLinux/blob/main/lab5/lab5_q1a.png?raw=true
+https://github.com/NooranTarek/RedhatLinux/blob/main/lab5/lab5_q1b.png?raw=true
+https://github.com/NooranTarek/RedhatLinux/blob/main/lab5/lab5_q1c.png?raw=true
+https://github.com/NooranTarek/RedhatLinux/blob/main/lab5/lab5_q2.png?raw=true
+https://github.com/NooranTarek/RedhatLinux/blob/main/lab5/lab5_q3.png?raw=true
+https://github.com/NooranTarek/RedhatLinux/blob/main/lab5/lab5_q4a.png?raw=true
+https://github.com/NooranTarek/RedhatLinux/blob/main/lab5/lab5_q4b.png?raw=true
+https://github.com/NooranTarek/RedhatLinux/blob/main/lab5/lab5_q5.png?raw=true
+https://github.com/NooranTarek/RedhatLinux/blob/main/lab5/lab5_q6.png?raw=true
+https://github.com/NooranTarek/RedhatLinux/blob/main/lab5/lab5_q7way2.png?raw=true
+https://github.com/NooranTarek/RedhatLinux/blob/main/lab5/lab5_q8.png?raw=true
+https://github.com/NooranTarek/RedhatLinux/blob/main/lab5/lab5_q9a.png?raw=true
+https://github.com/NooranTarek/RedhatLinux/blob/main/lab5/lab5_q9b.png?raw=true
+https://github.com/NooranTarek/RedhatLinux/blob/main/lab5/lab5_q9c.png?raw=true
+https://github.com/NooranTarek/RedhatLinux/blob/main/lab5/lab5_q10.png?raw=true
+https://github.com/NooranTarek/RedhatLinux/blob/main/lab5/lab5_q11.png?raw=true
+https://github.com/NooranTarek/RedhatLinux/blob/main/lab5/lab5_q12.png?raw=true
