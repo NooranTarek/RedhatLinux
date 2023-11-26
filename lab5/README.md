@@ -7,6 +7,18 @@
 
 1. Compress a file by compress, gzip, zip commands and decompress it again. State the
 differences between compress and gzip commands.
+
+<html></br></html>
+
+    Command Usage:
+        gzip:  Commonly used with the gzip command.
+               Widely adopted and considered standard
+               Generally faster
+               Adds a .gz extension
+     compress: Used with the compress command.
+               Less widely used and somewhat outdated
+               Adds a .Z extension
+               
 <html></br></html>
 
 ![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab5/lab5_q1a.png?raw=true)
@@ -114,6 +126,7 @@ file you copied, and then use these commands again, and check the output.
 
 ![1](https://github.com/NooranTarek/RedhatLinux/blob/main/lab5/lab5_q12.png?raw=true)
 
+no i couldn't because they are in diffferent partitions
 
 <html></br></html>
 
